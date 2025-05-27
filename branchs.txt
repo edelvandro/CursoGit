@@ -1,1 +1,1 @@
-Esta é uma aula referente a criação e manupulação de branchs.
+Esta é uma aula referente a criação e manupulação entre branchs.
